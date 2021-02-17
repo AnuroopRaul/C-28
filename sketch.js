@@ -48,7 +48,7 @@ function mouseDragged(){
 }
 
 function mouseReleased(){
-    slingshot.fly()
+    slingshot.fly();
 }
 
 function draw(){
